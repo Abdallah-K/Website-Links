@@ -13,7 +13,7 @@ This is some links of websites that I made which contain a front-end , back-end 
 ---
 ## Games-kh Website
 ---
-![](img/gameskh.png)
+![](img/gameskh.PNG)
 * __Links:__ [http://gamekh.great-site.net/?i=1](http://gamekh.great-site.net/?i=1)
 * __Language: React Framework__
 ---
